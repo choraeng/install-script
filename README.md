@@ -1,5 +1,5 @@
 # install-script
-if you can't run script file, run `chmod 777 <sricpt/.sh`  
+if you can't run script file, run `chmod 777 <sricpt>.sh`  
 
 ## install.sh
 ### install
